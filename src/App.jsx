@@ -12,8 +12,8 @@ import SearchResult from './pages/searchResult/SearchResult';
 import PageNotFound from './pages/404/PageNotFound';
 // import Home from './pages/home/home';
 import Home from './pages/home/Home';
-import Details from './pages/details/details';
-import Explore from './pages/explore/explore';
+import Details from './pages/details/Details';
+import Explore from './pages/explore/Explore';
 
 
 function App() {
